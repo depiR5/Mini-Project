@@ -11,8 +11,8 @@ namespace SimpleBank
             List<Account> accounts = new List<Account>()
             {
                 new SavingsAccount("SA-101", "Ahmed Omar", 15000m, 6.5m),
-                new CurrentAccount("CA-202", "mohamed Tarek", 5000m, 2000m),
-                new SavingsAccount("SA-103", "Shahd Sameh", 12000m, 5.2m)
+                new CurrentAccount("CA-202", "Mohamed Tarek", 5000m, 2000m),
+                new SavingsAccount("SA-103", "Adham mohamed", 12000m, 5.2m)
             };
 
             bool isRunning = true;
